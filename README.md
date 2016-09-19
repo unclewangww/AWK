@@ -108,7 +108,7 @@
        <div class="tuijian">
         <h2>数据库</h2>
         <ol>
-          <li><span><strong>1</strong></span><a href="./view.html">MYSQL优化</a></li>
+          <li><span><strong>1</strong></span><a href="./Git常用命令.html">MYSQL优化</a></li>
   
           <li><span><strong>2</strong></span><a href="./view4.html">女孩都有浪漫的小情怀――浪漫的求婚词</a></li>
           <li><span><strong>3</strong></span><a href="./view5.html">Green绿色小清新的夏天-个人博客模板</a></li>
